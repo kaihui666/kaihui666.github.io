@@ -1,0 +1,15 @@
+---
+title: first_day_note
+author: Kaihui
+date: '2020-12-23'
+slug: first-day-note
+categories: []
+tags: []
+---
+```{r}
+plot(co2)
+```
+```{r}
+knitr::kable(airquality)
+```
+
