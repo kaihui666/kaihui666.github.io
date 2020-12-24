@@ -6,7 +6,16 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020/12/24 画3D图</title>
+      <link>/2020/12/24/2020/12/24-%E7%94%BB3d%E5%9B%BE/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/24/2020/12/24-%E7%94%BB3d%E5%9B%BE/</guid>
+      <description>2020/12/24 画3D图library(rgl)x=c(0,0,1)y=c(0,0.5,1)z=c(0,1,1)plot3d(x, y, z,type = &amp;quot;s&amp;quot;, xlab = &amp;quot;&amp;quot;, ylab = &amp;quot;&amp;quot;, zlab = &amp;quot;&amp;quot;,box = FALSE, axes = F, radius = c(0.3,0.45,0.3),col = c(&amp;quot;pink&amp;quot;,&amp;quot;blue&amp;quot;, &amp;quot;pink&amp;quot;))ind = c(2,1,2,3)lines3d(x[ind], y[ind], z[ind], lwd = 2)</description>
+    </item>
+    
     <item>
       <title>zuoye</title>
       <link>/2020/12/23/zuoye/</link>
